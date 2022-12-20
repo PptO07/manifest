@@ -128,9 +128,6 @@
     <project path="vendor/voltage" name="vendor_voltage" remote="voltage" />
     <project path="vendor/ota" name="android_vendor_voltageota" remote="voltage" />
     <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="voltage" />
-    <project path="vendor/qcom/opensource/commonsys/display" name="vendor_qcom_opensource_display-commonsys" remote="voltage" />
-    <project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor_qcom_opensource_display-commonsys-intf" remote="voltage" />
-    <project path="vendor/qcom/opensource/display" name="vendor_qcom_opensource_display" remote="voltage" />
     <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="voltage" />
     <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="voltage" />
 
